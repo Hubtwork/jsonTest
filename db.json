@@ -1,159 +1,160 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "classes": [
-    {
-      "ID": "1",
-      "Course": "지구환경과학",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Lecture (reserved block for presentations, only some weeks)",
-      "Day": "Tu",
-      "StartTime": "08:30AM",
-      "EndTime": "10:20AM",
-      "Room": "CC 124"
-    },
-    {
-      "ID": "2",
-      "Course": "지구환경과학",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Lecture",
-      "Day": "W",
-      "StartTime": "11:00AM",
-      "EndTime": "11:50AM",
-      "Room": "CC 124"
-    },
-    {
-      "ID": "3",
-      "Course": "자아와 명상",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": null,
-      "Day": null,
-      "StartTime": null,
-      "EndTime": null,
-      "Room": null
-    },
-    {
-      "ID": "4",
-      "Course": "컴퓨터 구조",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Laboratory",
-      "Day": "Th",
-      "StartTime": "01:00PM",
-      "EndTime": "03:50PM",
-      "Room": "Tec 259"
-    },
-    {
-      "ID": "5",
-      "Course": "컴퓨터 구조",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Lecture",
-      "Day": "Th",
-      "StartTime": "08:30AM",
-      "EndTime": "10:20AM",
-      "Room": "CC 122"
-    },
-    {
-      "ID": "6",
-      "Course": "데이터 통신",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Laboratory",
-      "Day": "W",
-      "StartTime": "02:00PM",
-      "EndTime": "04:50PM",
-      "Room": "Tec 259"
-    },
-    {
-      "ID": "7",
-      "Course": "데이터 통신",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Lecture",
-      "Day": "W",
-      "StartTime": "09:00AM",
-      "EndTime": "09:50AM",
-      "Room": "Tec 259"
-    },
-    {
-      "ID": "8",
-      "Course": "컴퓨터공학 종합 설계 1",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Lecture",
-      "Day": "M",
-      "StartTime": "10:00AM",
-      "EndTime": "11:20AM",
-      "Room": "Tec 175"
-    },
-    {
-      "ID": "9",
-      "Course": "컴퓨터공학 종합 설계 1",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Lecture",
-      "Day": "W",
-      "StartTime": "12:00PM",
-      "EndTime": "01:20PM",
-      "Room": "CC 124"
-    },
-    {
-      "ID": "10",
-      "Course": "컴퓨터공학 종합 설계 1",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Laboratory",
-      "Day": "M",
-      "StartTime": "12:00PM",
-      "EndTime": "01:50PM",
-      "Room": "Tec 145"
-    },
-    {
-      "ID": "11",
-      "Course": "컴퓨터 보안",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Laboratory",
-      "Day": "F",
-      "StartTime": "10:00AM",
-      "EndTime": "12:50PM",
-      "Room": "Tec 259"
-    },
-    {
-      "ID": "12",
-      "Course": "데이터베이스",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Lecture",
-      "Day": "Th",
-      "StartTime": "10:30AM",
-      "EndTime": "11:50AM",
-      "Room": "Tec 173"
-    },
-    {
-      "ID": "13",
-      "Course": "데이터베이스",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Seminar",
-      "Day": "F",
-      "StartTime": "08:30AM",
-      "EndTime": "09:50AM",
-      "Room": "CBA 287"
+    "posts": [
+      { "id": 1, "title": "Post 1" },
+      { "id": 2, "title": "Post 2" },
+      { "id": 3, "title": "Post 3" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "classes": [
+      {
+        "ID": "1",
+        "Course": "지구환경과학",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": "강의",
+        "Day": "Tu",
+        "StartTime": "08:30",
+        "EndTime": "10:20",
+        "Room": "신공학관 3319"
+      },
+      {
+        "ID": "2",
+        "Course": "지구환경과학",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": "강의",
+        "Day": "W",
+        "StartTime": "11:00",
+        "EndTime": "11:50",
+        "Room": "신공학관 3319"
+      },
+      {
+        "ID": "3",
+        "Course": "자아와 명상",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": null,
+        "Day": null,
+        "StartTime": null,
+        "EndTime": null,
+        "Room": null
+      },
+      {
+        "ID": "4",
+        "Course": "컴퓨터 구조",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": "강의",
+        "Day": "Th",
+        "StartTime": "13:00",
+        "EndTime": "15:50",
+        "Room": "신공학관 10114"
+      },
+      {
+        "ID": "5",
+        "Course": "컴퓨터 구조",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": "강의",
+        "Day": "Th",
+        "StartTime": "08:30",
+        "EndTime": "10:20",
+        "Room": "정보문화관 P동 122"
+      },
+      {
+        "ID": "6",
+        "Course": "데이터 통신",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": "Laboratory",
+        "Day": "W",
+        "StartTime": "14:00",
+        "EndTime": "16:50",
+        "Room": "신공학관 10114"
+      },
+      {
+        "ID": "7",
+        "Course": "데이터 통신",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": "강의",
+        "Day": "W",
+        "StartTime": "09:00",
+        "EndTime": "09:50",
+        "Room": "신공학관 10114"
+      },
+      {
+        "ID": "8",
+        "Course": "컴퓨터공학 종합 설계 1",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": "강의",
+        "Day": "M",
+        "StartTime": "10:00",
+        "EndTime": "11:20",
+        "Room": "학림관 J123"
+      },
+      {
+        "ID": "9",
+        "Course": "컴퓨터공학 종합 설계 1",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": "강의",
+        "Day": "W",
+        "StartTime": "12:00",
+        "EndTime": "13:20",
+        "Room": "신공학관 3319"
+      },
+      {
+        "ID": "10",
+        "Course": "컴퓨터공학 종합 설계 1",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": "Laboratory",
+        "Day": "M",
+        "StartTime": "12:00",
+        "EndTime": "13:50",
+        "Room": "학림관 J145"
+      },
+      {
+        "ID": "11",
+        "Course": "컴퓨터 보안",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": "Laboratory",
+        "Day": "F",
+        "StartTime": "10:00",
+        "EndTime": "12:50",
+        "Room": "신공학관 10114"
+      },
+      {
+        "ID": "12",
+        "Course": "데이터베이스",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": "강의",
+        "Day": "Th",
+        "StartTime": "10:30",
+        "EndTime": "11:50",
+        "Room": "학림관 J173"
+      },
+      {
+        "ID": "13",
+        "Course": "데이터베이스",
+        "StartDate": "01-07-2019",
+        "EndDate": "04-13-2019",
+        "Type": "강의",
+        "Day": "F",
+        "StartTime": "08:30",
+        "EndTime": "09:50",
+        "Room": "명진관 M287"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
     }
-  ],
-  "profile": {
-    "name": "typicode"
   }
-}
+  
